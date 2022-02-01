@@ -1,5 +1,5 @@
 ## Olá, eu sou a Bianca! Sou estudante de Pós Graduação em Engenharia de Software, Desenvolvedora de Software Web e apaixonada por programar.
-<div align="center">
+<div align="left">
   <a href="https://github.com/BiancaBianchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaBianchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaBianchi&layout=compact&langs_count=7&theme=dracula"/>
