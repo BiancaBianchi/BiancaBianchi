@@ -1,7 +1,7 @@
 ## Olá, eu sou a Bianca! Sou Desenvolvedora de Software Web ♥
 
 - Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e estou cursando Pós Graduação em Engenharia de Software (MBA) na Faculdade Metropolitana.
-- Eu tenho experiência em Desenvolvimento de Software Web em sistemas de gerenciamento de empresas e gerenciamento financeiro.
+- Eu tenho experiência em Desenvolvimento de Software Web com uso de metodologias Ágeis.
 - Estou estudando Ruby, Ruby on Rails e desenvolvendo melhor as habilidades que já atuo como HTML, CSS, Javascript, React. Além de estar estudando sobre UX para desenvolver da melhor forma no Front End.
 - Seja bem vindo(a) ao meu GitHub ♥
 
