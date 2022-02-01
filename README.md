@@ -1,4 +1,4 @@
-## Olá, eu sou a Bianca! Sou estudante de Pós Graduação em Engenharia de Software, Desenvolvedora de Software Web e apaixonada por programar.
+## Olá, eu sou a Bianca! Sou Desenvolvedora de Software Web ♥
 
 - Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e estou cursando Pós Graduação em Engenharia de Software (MBA) na Faculdade Metropolitana.
 - Eu tenho experiência em Desenvolvimento de Software Web em sistemas de gerenciamento de empresas e gerenciamento financeiro.
