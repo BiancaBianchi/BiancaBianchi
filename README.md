@@ -1,4 +1,12 @@
 ## Olá, eu sou a Bianca! Sou estudante de Pós Graduação em Engenharia de Software, Desenvolvedora de Software Web e apaixonada por programar.
+
+- Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e estou cursando Pós Graduação em Engenharia de Software (MBA) na Faculdade Metropolitana.
+- Eu tenho experiência em Desenvolvimento de Software Web em sistemas de gerenciamento de empresas e gerenciamento financeiro.
+- Estou estudando Ruby, Ruby on Rails e desenvolvendo melhor as habilidades que já atuo como HTML, CSS, Javascript, React. Além de estar estudando sobre UX para desenvolver da melhor forma no Front End.
+- Seja bem vindo(a) ao meu GitHub ♥
+
+##
+
 <div align="center">
   <a href="https://github.com/BiancaBianchi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BiancaBianchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
