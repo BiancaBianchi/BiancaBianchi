@@ -2,7 +2,7 @@
 
 - Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e Pós Graduada em Engenharia de Software (MBA) na Faculdade Metropolitana.
 - Eu tenho experiência em Desenvolvimento de Software Web com uso de metodologias Ágeis.
-- Estou estudando Ruby, Ruby on Rails e desenvolvendo melhor as habilidades que já atuo como HTML, CSS, Javascript, React. Além de estar estudando sobre UX para desenvolver da melhor forma no Front End.
+- Estudando mais sobre Vue.Js, Ux/UI e clean code para melhorar meu desenvolvimento em Front End.
 - Seja bem vindo(a) ao meu GitHub ♥
 
 ##
