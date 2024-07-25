@@ -2,7 +2,7 @@
 
 - Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e Pós Graduada em Engenharia de Software (MBA) na Faculdade Metropolitana.
 - Eu tenho experiência em Desenvolvimento de Software Web com uso de metodologias Ágeis.
-- Estudando mais sobre Vue.Js, Ux/UI e clean code para melhorar meu desenvolvimento em Front End.
+- Estudando mais sobre Desenvolvimento FullStack.
 - Seja bem vindo(a) ao meu GitHub ♥
 
 ##
