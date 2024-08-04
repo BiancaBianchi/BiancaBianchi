@@ -1,8 +1,10 @@
 ## Olá, eu sou a Bianca! Sou Desenvolvedora de Software Web ♥
 
+Desenvolvedora FullStack com foco em React.js, TypeScript, Node.js e GraphQL. Atualmente, estou me aprofundando na área e fazendo uma segunda graduação em Engenharia de Software. Minha carreira incluiu funções como desenvolvedor front-end e FullStack com experiência focada em Javascript. Possuo um MBA em Eng. de Software e tecnólogo em Mecatrônica Industrial, complementada por experiência prática em projetos de software, desde a criação de páginas web até o desenvolvimento de sistemas. Além disso, atuei como professora de programação, ensinando algoritmos e robótica para jovens.
+
 - Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e Pós Graduada em Engenharia de Software (MBA) na Faculdade Metropolitana.
 - Eu tenho experiência em Desenvolvimento de Software Web com uso de metodologias Ágeis.
-- Estudando mais sobre Desenvolvimento FullStack.
+- Estudando mais sobre Desenvolvimento FullStack e fazendo minha segunda graduação em Eng. de Software.
 - Seja bem vindo(a) ao meu GitHub ♥
 
 ##
