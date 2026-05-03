@@ -1,40 +1,62 @@
-## Olá, eu sou a Bianca! Sou Desenvolvedora de Software Web ♥
+# Hi, I'm Bianca 👋
 
-Desenvolvedora FullStack com foco em React.js, TypeScript, Node.js e GraphQL. Atualmente, estou me aprofundando na área e fazendo uma segunda graduação em Engenharia de Software. Minha carreira incluiu funções como desenvolvedor front-end e FullStack com experiência focada em Javascript. Possuo um MBA em Eng. de Software e tecnólogo em Mecatrônica Industrial, complementada por experiência prática em projetos de software, desde a criação de páginas web até o desenvolvimento de sistemas. Além disso, atuei como professora de programação, ensinando algoritmos e robótica para jovens.
+**Software Engineer focused on Backend & AI Platform Engineering**  
+Building the engineering layer that connects ML models to real products at scale.
 
-- Eu sou formada em Mecatrônica Industrial pela Fatec Santo André e Pós Graduada em Engenharia de Software (MBA) na Faculdade Metropolitana.
-- Eu tenho experiência em Desenvolvimento de Software Web com uso de metodologias Ágeis.
-- Estudando mais sobre Desenvolvimento FullStack e fazendo minha segunda graduação em Eng. de Software.
-- Seja bem vindo(a) ao meu GitHub ♥
+I work at the intersection of **software engineering and AI** — my day-to-day involves async messaging systems, observability design, and making sure models built by data scientists actually reach production with quality and maintainability.
 
-##
+I moved from frontend → full-stack → backend specialization. Not by accident — I identified backend as a gap in my skill set, made it a focus, sought mentorship, and built until it became a core strength. Currently expanding into **Python and ML Engineering** fundamentals to deepen my contribution to AI-native systems.
 
-<div align="center">
-  <a href="https://github.com/BiancaBianchi">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaBianchi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+I care about engineering quality: structured logs, meaningful metrics, clean contracts, and systems that are easy to maintain and understand. And I care about the humans on the team too.
 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Jquery" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+---
 
-</div>
-  
-  ##
- 
-<div> 
-   <a href = "mailto:biancabianchideoleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bianca-bianchi-deoleite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🛠 Tech stack
 
-</div>
+**Backend**
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Infra & Observability**
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Currently learning**
+![Python](https://img.shields.io/badge/Python-deepening-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML Engineering](https://img.shields.io/badge/ML%20Engineering-exploring-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BiancaBianchi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaBianchi&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🔍 What I'm focused on right now
+
+- Architecting reliable integration layers between AI/ML components and large-scale products
+- Deepening observability practices: structured logging, meaningful metrics, alerting strategies
+- Expanding into Python and ML Engineering fundamentals
+- Contributing to software architecture decisions in AI-native systems
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-biancabianchi--scastro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancabianchi-scastro)
+[![Email](https://img.shields.io/badge/Email-biancabianchideoleite@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:biancabianchideoleite@gmail.com)
