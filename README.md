@@ -51,4 +51,3 @@ I care about engineering quality: structured logs, meaningful metrics, clean con
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biancabianchi--scastro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancabianchi-scastro)
-[![Email](https://img.shields.io/badge/Email-biancabianchideoleite@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:biancabianchideoleite@gmail.com)
