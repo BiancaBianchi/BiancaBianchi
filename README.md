@@ -38,14 +38,6 @@ I care about engineering quality: structured logs, meaningful metrics, clean con
 
 ---
 
-## 📊 GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BiancaBianchi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaBianchi&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
-
----
 
 ## 🔍 What I'm focused on right now
 
